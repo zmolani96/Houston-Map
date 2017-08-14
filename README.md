@@ -1,4 +1,4 @@
-http://github.com/zmolani96/Houston-Map
+http://zmolani96.github.io/Houston-Map
 
 # Houston-Map
 VMD Houston interactive map 
